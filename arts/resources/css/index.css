@@ -1,0 +1,15 @@
+body {font-family: Helvetica;}
+h1 {font-size: 100px;}
+h1 {font-weight: bold;}
+h1 {color: khaki;}
+h1 {text-align: center;}
+h1 {background-image: url("/Users/dbuchnat/Documents/projects/arts/resources/media/pattern.jpeg");}
+h2 {font-size: 32px;}
+h2 {font-weight: bold;}
+h2 {color: white;}
+.brush {background-color: mediumspringgreen;}
+.frame {background-color: lightcoral;}
+.paint {background-color: skyblue;}
+section {color: blue;}
+section {margin: 10;}
+section {padding: 0px;}
